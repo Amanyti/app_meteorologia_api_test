@@ -32,8 +32,7 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   TextEditingController controllerText = TextEditingController();
-  final String apiKey =
-      '05ca5fde469800d20c0a3fb08b17c2b3'; // Substitua com sua chave da API
+  final String apiKey = ''; // chave da API
   String city = '';
   String temperature = '';
   String description = '';
