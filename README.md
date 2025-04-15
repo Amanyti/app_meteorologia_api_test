@@ -1,16 +1,3 @@
-# api_teste
+# Previsão do Tempo - Flutter App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este é um projeto de um aplicativo mobile desenvolvido em **Flutter** com **Dart**, que consome a API padrão de previsão do tempo construída com **ASP.NET Core**. O app permite buscar a previsão do tempo de uma cidade informada pelo usuário, mostrando a data, temperatura e descrição do clima.
